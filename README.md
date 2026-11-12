@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Chindy%20Alisya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Chindy 👋</h1>
 
 <p align="center">
@@ -16,6 +20,10 @@
 - 💻 Frontend developer, building web apps with React and Laravel
 - 🚀 Active in campus events and entrepreneurship
 - 🌱 Currently learning: UI motion, full-stack architecture, Python automation
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -44,3 +52,6 @@
 
 ---
 <p align="center">⭐ Thanks for stopping by!</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
+</p>
