@@ -79,6 +79,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ec7,50:a78bfa,100:22d3ee&height=3" width="100%" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chindyalisya/chindyalisya/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
+
 <h2 align="center">📌 Featured Projects</h2>
 
 | Project | Description |
